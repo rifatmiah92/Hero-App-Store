@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://store-images.s-microsoft.com/image/apps.56161.9007199266246365.1d5a6a53-3c49-4f80-95d7-78d76b0e05d0.a3e87fea-e03e-4c0a-8f26-9ecef205fa7b",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 1,
+    "description": "Netflix offers endless entertainment with award-winning movies, TV shows, documentaries, and stand-up specials. Stream or download your favorite content anytime on your phone, tablet, or TV. Enjoy personalized suggestions and offline viewing for a seamless watching experience anywhere.",
+    "size": 65,
+    "reviews": "901K",
+    "ratingAvg": 4.4,
+    "downloads": 30.2,
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 9100 }
+    ]
+  },
+  {
+    "image": "https://www.computerhope.com/issues/pictures/google-drive-logo.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 2,
+    "description": "Google Drive gives you safe cloud storage for your files, photos, and documents. Access and share your data from anywhere with automatic syncing and real-time teamwork through Docs, Sheets, and Slides.",
+    "size": 70,
+    "reviews": "907K",
+    "ratingAvg": 4.6,
+    "downloads": 11,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 3950 },
+      { "name": "5 star", "count": 14300 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/instagram-logo_628407-1914.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Instagram helps you share life’s moments through photos, videos, and stories. Connect with friends, explore global trends, and dive into reels for endless fun and inspiration.",
+    "size": 90,
+    "reviews": "809K",
+    "ratingAvg": 4.3,
+    "downloads": 25.8,
+    "ratings": [
+      { "name": "1 star", "count": 2600 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 34500 },
+      { "name": "5 star", "count": 107000 }
+    ]
+  },
+  {
+    "image": "https://cdn.shopify.com/app-store/listing_images/8a98eae41ba0d6e898e2b322b7ac6202/icon/CNW9z830lu8CEAE=.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 4,
+    "description": "Pinterest is your go-to visual discovery platform to find inspiration for everything — from recipes to home décor. Save ideas you love, organize them on boards, and get creative with millions of pins.",
+    "size": 80,
+    "reviews": "811K",
+    "ratingAvg": 4.6,
+    "downloads": 27.2,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 6500 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-photo/tiktok-logo_1080029-103.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 5,
+    "description": "TikTok is your destination for short, creative videos. Watch, create, and share clips filled with trends, humor, and entertainment personalized just for you.",
+    "size": 85,
+    "reviews": "760K",
+    "ratingAvg": 4.4,
+    "downloads": 16.9,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 15200 },
+      { "name": "5 star", "count": 56500 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/whatsapp-icon-design-social-media-messaging-app-branding_1303737-6449.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 6,
+    "description": "WhatsApp Messenger lets you send messages, make calls, and share media securely. Enjoy fast, encrypted communication with friends and family worldwide.",
+    "size": 40,
+    "reviews": "872K",
+    "ratingAvg": 4.6,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 950 },
+      { "name": "2 star", "count": 820 },
+      { "name": "3 star", "count": 2600 },
+      { "name": "4 star", "count": 24800 },
+      { "name": "5 star", "count": 158000 }
+    ]
+  },
+  {
+    "image": "https://store-images.s-microsoft.com/image/apps.64248.14208673485779370.88f23073-7e41-4921-aef9-76103983bd31.714459aa-91a6-45a3-a7ed-1f6a283c93fd",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Snapchat helps you share everyday moments instantly. Send snaps, post stories, and have fun with creative filters, Bitmojis, and lenses that make chats lively.",
+    "size": 80,
+    "reviews": "906K",
+    "ratingAvg": 4.2,
+    "downloads": 17,
+    "ratings": [
+      { "name": "1 star", "count": 850 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 7100 },
+      { "name": "5 star", "count": 20500 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/vector-circle-youtube-logo-collection-with-flat-design_534308-21669.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 8,
+    "description": "YouTube brings you endless videos, live streams, and music from creators everywhere. Explore educational, entertainment, and trending content customized for you.",
+    "size": 95,
+    "reviews": "807K",
+    "ratingAvg": 4.3,
+    "downloads": 26.8,
+    "ratings": [
+      { "name": "1 star", "count": 4100 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 8800 },
+      { "name": "4 star", "count": 45500 },
+      { "name": "5 star", "count": 87500 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/500px-Telegram_logo.svg.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 9,
+    "description": "Telegram is a fast, secure messaging app with privacy-focused features. Share large files, manage channels, and chat with full control and reliability.",
+    "size": 42,
+    "reviews": "679K",
+    "ratingAvg": 4.6,
+    "downloads": 8.7,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 75 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 2050 },
+      { "name": "5 star", "count": 6900 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/2275px-Google_Maps_Logo_2020.svg.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "Google Maps lets you explore the world with real-time navigation and traffic updates. Discover nearby places and travel confidently with offline maps and Street View.",
+    "size": 75,
+    "reviews": "896K",
+    "ratingAvg": 4.5,
+    "downloads": 29.6,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 1550 },
+      { "name": "4 star", "count": 4950 },
+      { "name": "5 star", "count": 14600 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 11,
+    "description": "Amazon Shopping makes online purchases easy and quick. Browse millions of products, track orders, and enjoy exclusive offers with a smooth shopping experience.",
+    "size": 60,
+    "reviews": "839K",
+    "ratingAvg": 4.4,
+    "downloads": 19.2,
+    "ratings": [
+      { "name": "1 star", "count": 390 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 1150 },
+      { "name": "4 star", "count": 5150 },
+      { "name": "5 star", "count": 10800 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 12,
+    "description": "X connects you to the world’s real-time conversations. Follow trends, share your thoughts, and engage with news and communities that matter to you.",
+    "size": 72,
+    "reviews": "900K",
+    "ratingAvg": 4.0,
+    "downloads": 17.4,
+    "ratings": [
+      { "name": "1 star", "count": 1900 },
+      { "name": "2 star", "count": 1550 },
+      { "name": "3 star", "count": 6100 },
+      { "name": "4 star", "count": 29500 },
+      { "name": "5 star", "count": 62000 }
+    ]
+  },
+  {
+    "image": "https://store-images.s-microsoft.com/image/apps.15970.14375561300249796.05fe8c27-ce9e-4144-8702-0e81e2f575b1.042364cb-b745-4796-a520-61291e2dd6b9",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 13,
+    "description": "Reddit is a massive network of communities where people discuss any topic imaginable. Join conversations, share stories, and connect with people who share your passions.",
+    "size": 55,
+    "reviews": "930K",
+    "ratingAvg": 4.2,
+    "downloads": 14.9,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 1480 },
+      { "name": "5 star", "count": 4900 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA",
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "id": 14,
+    "description": "Duolingo makes learning new languages fun and effective. Practice speaking, reading, and listening with quick lessons and track your progress while earning rewards.",
+    "size": 30,
+    "reviews": "895K",
+    "ratingAvg": 4.7,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 95 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 2050 },
+      { "name": "5 star", "count": 11800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 15,
+    "description": "Canva helps you design anything from social media posts to marketing materials easily. Use ready templates, customize with colors and fonts, and collaborate in real-time.",
+    "size": 50,
+    "reviews": "898K",
+    "ratingAvg": 4.8,
+    "downloads": 30,
+    "ratings": [
+      { "name": "1 star", "count": 75 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 980 },
+      { "name": "5 star", "count": 8800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 16,
+    "description": "Zoom provides powerful video meetings and webinars for business or personal use. Host HD calls, share screens, record, and collaborate seamlessly online.",
+    "size": 85,
+    "reviews": "859K",
+    "ratingAvg": 4.3,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 770 },
+      { "name": "4 star", "count": 3050 },
+      { "name": "5 star", "count": 12400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/jKU64njy8urP89V1O63eJxMtvWjDGETPlHVIhDv9WZAYzsSxRWyWZkUlBJZj_HbkHA",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 17,
+    "description": "Microsoft Teams combines chat, meetings, and file sharing in one platform. Stay organized, manage projects, and connect with coworkers in a single workspace.",
+    "size": 120,
+    "reviews": "807K",
+    "ratingAvg": 4.2,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1950 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png",
+    "title": "Notion",
+    "companyName": "Notion Labs, Inc.",
+    "id": 18,
+    "description": "Notion is an all-in-one workspace for notes, docs, projects, and tasks. Collaborate with teams, plan efficiently, and stay organized with customizable pages.",
+    "size": 40,
+    "reviews": "870K",
+    "ratingAvg": 4.7,
+    "downloads": 7.3,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 270 },
+      { "name": "4 star", "count": 1650 },
+      { "name": "5 star", "count": 9200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/lQYxSdISBENwWO7RCF1j_AzjzdOaa1LUgRckYPFVvDkSWdD8P6jqCZebmAyZfufGpIY",
+    "title": "Shopify",
+    "companyName": "Shopify Inc",
+    "id": 19,
+    "description": "Spotify lets you stream millions of songs, podcasts, and playlists. Discover new artists, make custom mixes, and listen offline anytime, anywhere.",
+    "size": 65,
+    "reviews": "905K",
+    "ratingAvg": 4.54,
+    "downloads": 22.33,
+    "ratings": [
+      { "name": "1 star", "count": 430 },
+      { "name": "2 star", "count": 270 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 4050 },
+      { "name": "5 star", "count": 13900 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-96lDFPSvKAjzgkOec1Tl1QZxpXIEWn83UQ&s",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 20,
+    "description": "Google Photos safely stores your pictures and videos with automatic backups. Easily organize, search, and relive your memories across all your devices.",
+    "size": 63,
+    "reviews": "880K",
+    "ratingAvg": 4.5,
+    "downloads": 28.55,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 610 },
+      { "name": "4 star", "count": 2550 },
+      { "name": "5 star", "count": 11900 }
+    ]
+  }
+]
