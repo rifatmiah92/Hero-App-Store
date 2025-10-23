@@ -26,4 +26,4 @@ React Toastify → Shows user-friendly toast messages
 
 Recharts → Creates simple and clean data charts
 
-This project was developed by Rifat using React and Tailwind CSS as part of a student learning project.
+This project was developed by  Rifat Miah using React and Tailwind CSS as part of a student learning project.
